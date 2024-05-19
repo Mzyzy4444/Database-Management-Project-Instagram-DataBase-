@@ -1,4 +1,4 @@
-Instagram Data Queryig Project
+Instagram Data Query Project
 |
 **Link for the project: https://www.students.cs.ubc.ca/~zma14/instagram.php**
 - Anthor: Zoey Ma, Anna Tao, Edmond Ye
